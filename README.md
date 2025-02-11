@@ -4,4 +4,4 @@ A collection of the latest VitusAPI
 
 Latest versions:
 
-C#: 1.4.0 (Upload date: November 29th 2024)
+C#: 1.8.0 (Upload date: February 11th 2025)
